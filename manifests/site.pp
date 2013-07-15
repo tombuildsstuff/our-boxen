@@ -75,6 +75,16 @@ node default {
   include ruby::1_9_3
   include ruby::2_0_0
 
+  include vmware_fusion
+  include iterm2::stable
+  include sublime_text_2
+  include evernote
+  include chrome
+  include mongodb
+  include mou
+  include colloquy
+  include alfred
+
   # common, useful packages
   package {
     [
