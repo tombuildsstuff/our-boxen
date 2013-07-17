@@ -6,5 +6,4 @@ class people::stack72 {
     include dropbox
     include skitch
     include skype
-    include zsh
 }
