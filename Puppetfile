@@ -41,6 +41,13 @@ github "mou",             "1.0.0"
 github "colloquy",        "1.0.0"
 github "alfred",          "1.1.1"
 github "sparrow",         "1.0.0"
+github "evernote",        "2.0.3"
+github "vagrant",	  "2.0.8"
+github "intellij",	  "1.3.0"
+github "dropbox",	  "1.1.1"
+github "skitch",	  "1.0.1"
+github "skype",		  "1.0.3"
+github "zsh",		  "1.0.0"
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
