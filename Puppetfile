@@ -40,6 +40,7 @@ github "mongodb",         "1.0.4"
 github "mou",             "1.0.0"
 github "colloquy",        "1.0.0"
 github "alfred",          "1.1.1"
+github "sparrow",         "1.0.0"
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
