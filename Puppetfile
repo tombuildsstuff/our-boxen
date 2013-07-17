@@ -34,12 +34,12 @@ github "xquartz",         "1.1.0"
 github "vmware_fusion",   "1.0.0" 
 github "iterm2",          "1.0.2"
 github "sublime_text_2",  "1.1.2"
-github "evernote"         "2.0.3"
-github "chrome"           "1.1.1"
-github "mongodb"          "1.0.4"
-github "mou"              "1.0.0"
-github "colloquy"         "1.0.0"
-github "alfred"           "1.1.1"
+github "evernote",        "2.0.3"
+github "chrome",          "1.1.1"
+github "mongodb",         "1.0.4"
+github "mou",             "1.0.0"
+github "colloquy",        "1.0.0"
+github "alfred",          "1.1.1"
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
